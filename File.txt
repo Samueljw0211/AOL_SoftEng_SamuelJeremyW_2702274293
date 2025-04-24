@@ -1,6 +1,6 @@
 Description AOL: Aplikasi Kosinfo adalah sebuah aplikasi yang membantu pengguna terutama orang-orang yang merantau untuk mencari kos-kos yang terdekat dari Binus.
 
-2.Fitur: Register, Login, Form Input, Search Flat Information, Rating dan Create Forum
+2.Fitur: Register, Login, Form Input, Search Flat Information, Rating dan Create Forum.
 
 3.Team Member: 
 2702373412 - Clive Clay Irawan
